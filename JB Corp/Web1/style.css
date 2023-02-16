@@ -1,0 +1,29 @@
+
+    body{
+        
+    }
+
+    *{
+    margin:0;
+
+    padding:0;
+
+    box-sizing : border-box;
+
+
+    }
+/* this is the background image of the page */
+header{
+
+    background-image: url(Assets/Artboard\ 12\ copy\ 10-100_jpg\ by\ Ghozali\ Ghozalu.jpg);
+
+    height:100vh;
+
+    background-position: center;
+    
+    background-repeat: no-repeats;
+
+    background-size: cover;
+
+    padding-left:40px;
+}
